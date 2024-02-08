@@ -2,9 +2,10 @@
 - The project overview aims to develop a user-friendly mobile application for task management and collaboration among team members.
 
 ## Team Members
-Name
----
-- Joshua Geng
+
+| Name |
+|--------|
+| Joshua Geng |
 
 ## Screenshots
 
