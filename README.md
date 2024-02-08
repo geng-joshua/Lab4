@@ -8,11 +8,6 @@ Name
 
 ## Screenshots
 
-- Brief description 1
-- Brief description 2
-- Brief description 3
-
-
 ### Exercise B
 ![Exercise B final output](./ExerciseB.gif)
 
